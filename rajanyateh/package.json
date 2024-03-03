@@ -1,7 +1,6 @@
 {
   "name": "rajanyateh",
   "version": "1.1.2",
-
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,26 +8,27 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "14.1.1",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.1.1"
+    "sfc": "^0.2.13"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.4.18",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.1",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
-    "eslint": "^8",
-    "eslint-config-next": "14.1.1"
+    "typescript": "^5"
   },
   "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lindaanjel77/teatxtx.git"
+    "url": "https://github.com/lindaanjel77/teatxtx.git"
   },
   "keywords": [
     "tea",
